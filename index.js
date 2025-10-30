@@ -1,3 +1,3 @@
 function validateAge(oldEnough){
-  // add your code here
+ return oldEnough if oldEnough = true
 }
